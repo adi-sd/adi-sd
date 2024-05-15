@@ -10,10 +10,10 @@
     <li>Graduating - <b class="important-info">December 2024</b></li>
     <li>Current interests include :
         <ul>
-            <li style="padding-left: 1.5rem; list-style: circle;">Full-Stack Software Devolvement</li>
-            <li style="padding-left: 1.5rem; list-style: circle">Web Development</li>
-            <li style="padding-left: 1.5rem; list-style: circle;">Software Engineering</li>
-            <li style="padding-left: 1.5rem; list-style: circle;">Building software solutions for real-world problems</li>
+            <li style="padding-left: 1rem; list-style: circle;">Full-Stack Software Devolvement</li>
+            <li style="padding-left: 1rem; list-style: circle">Web Development</li>
+            <li style="padding-left: 1rem; list-style: circle;">Software Engineering</li>
+            <li style="padding-left: 1rem; list-style: circle;">Building software solutions for real-world problems</li>
         </ul>
     </li>
 </ul>
