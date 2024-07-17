@@ -18,7 +18,7 @@
     </li>
 </ul>
 
-![My Technical Skills](https://github.com/adi-sd/adi-sd/blob/main/Technical_Skills.png)
+![My Technical Skills](Technical_Skills.png)
 
 <!--
 **adi-sd/adi-sd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
