@@ -6,9 +6,8 @@
     <li>I am <b class="important-info">28 years old 🤓</b>, born on <b class="important-info">31st October 🎂 🎃 👻</b></li>
     <li>Originally from Pune, Maharashtra, <b class="important-info">India 🇮🇳</b></li>
     <li><b class="important-info">Software Developer 💻</b>, By Profession</li>
-    <li><b class="important-info">📚 Master of Science - Computer Science</b> from USC</li>
-    <li><b class="important-info">📚 Bachelor of Engineering - Computer Engineering</b> from Pune University</li>
-    <li>Graduating - <b class="important-info">December 2024</b></li>
+    <li><b class="important-info">📚 Master of Science - Computer Science</b> from USC (December 2024)</li>
+    <li><b class="important-info">📚 Bachelor of Engineering - Computer Engineering</b> from Pune University (June 2018)</li>
     <li>Current interests include :
         <ul>
             <li style="padding-left: 1rem; list-style: circle;">Full-Stack Software Devolvement</li>
