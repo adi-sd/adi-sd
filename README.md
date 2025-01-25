@@ -10,9 +10,10 @@
     <li><b class="important-info">📚 Bachelor of Engineering - Computer Engineering</b> from Pune University (June 2018)</li>
     <li>Current interests include :
         <ul>
-            <li style="padding-left: 1rem; list-style: circle;">Full-Stack Software Devolvement</li>
-            <li style="padding-left: 1rem; list-style: circle">Web Development</li>
-            <li style="padding-left: 1rem; list-style: circle;">Software Engineering</li>
+            <li style="padding-left: 1rem; list-style: circle;">Full-Stack Software Development</li>
+            <li style="padding-left: 1rem; list-style: circle">Web Applications Development</li>
+            <li style="padding-left: 1rem; list-style: circle;">Java, JavaScript and TypeScript Programming</li>
+            <li style="padding-left: 1rem; list-style: circle;">Data Structures, Algorithms, and Problem Solving</li>
             <li style="padding-left: 1rem; list-style: circle;">Building software solutions for real-world problems</li>
         </ul>
     </li>
